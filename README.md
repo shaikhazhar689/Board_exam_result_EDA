@@ -1,6 +1,6 @@
 # Board Exam Result Analysis
 
-## Exploratory Data Analysis and Visualization: Saraswati Vidyalaya 10th Board Performance (2020-2022)
+## Exploratory Data Analysis and Visualization: Saraswati Vidyalaya 10th Class Board Performance (2020-2022)
 
 Welcome to the exploratory data analysis and visualization of Saraswati Vidyalaya Secondary and Higher Secondary School's 10th board performance from 2020 to 2022. This comprehensive analysis delves into patterns, trends, and critical insights, aiming to inform and guide future strategies for continuous improvement.
 
